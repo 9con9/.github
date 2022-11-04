@@ -15,8 +15,15 @@ that provides the best price for Resell items.
 
 ## :wrench: Using programming skills
 * React
+* React Native
 * Python
 * JavaScript
 * MySQL
+* MongoDB
 * Node Express, Flask, Axios
-* Styled Components, Ant Design, Nivo
+* Styled Components, Ant Design
+
+## :wrench: 사용 설명서
+#Mobile
+1. 터미널에서 CD RN
+2. Expo Start
