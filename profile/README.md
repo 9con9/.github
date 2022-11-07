@@ -27,7 +27,7 @@ that provides the best price for Resell items.
 * Node Express, Flask, Axios
 * Styled Components, Ant Design
 
-## :sparkles:Preview
+## :sparkles:Preview (Youtube)
 
 ### :iphone: Mobile App
 
