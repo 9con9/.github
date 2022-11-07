@@ -23,7 +23,9 @@ that provides the best price for Resell items.
 * Node Express, Flask, Axios
 * Styled Components, Ant Design
 
-## :wrench: 사용 설명서
-#Mobile
-1. 터미널에서 CD RN
-2. Expo Start
+###:sparkles:Preview
+
+##:iphone: Mobile
+[![ResellViewer Mobile](http://img.youtube.com/vi/1OjoXAa71Xw/0.jpg)](https://youtu.be/1OjoXAa71Xw)
+
+##:computer: Web
