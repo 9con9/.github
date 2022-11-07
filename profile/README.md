@@ -3,9 +3,11 @@
 ### :point_right: Resell : Term used to sell back a previous purchase
 ### :point_right: Viewer : Term for viewing device
 ### We decided to combine these two terms. 'Resell Viewer'
-ResellViewer is
-__a Web Service & Mobile Application__
+
+```
+ResellViewer is a Web Service & Mobile Application
 that provides the best price for Resell items.
+```
 
 #### :family: Member
 * 임민택 : lmtna99@gmail.com
