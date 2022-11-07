@@ -9,7 +9,7 @@ ResellViewer is a Web Service & Mobile Application
 that provides the best price for Resell items.
 ```
 
-#### :family: Member
+## :family: Member
 * 임민택 : lmtna99@gmail.com
 * 황훈태 : ghkdgnsxo2484@naver.com
 * 최영규 : mpd253@naver.com
@@ -29,7 +29,7 @@ that provides the best price for Resell items.
 
 ## :sparkles:Preview
 
-### :iphone: Mobile
+### :iphone: Mobile App
 
 [![ResellViewer Mobile](http://img.youtube.com/vi/1OjoXAa71Xw/1.jpg)](https://youtu.be/1OjoXAa71Xw)
 
