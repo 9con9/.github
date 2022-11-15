@@ -36,11 +36,6 @@ that provides the best price for Resell items.
 
 ### :computer: Web
 
-
-
-
-
-
-
-
+[![ResellViewer Responsive Web](http://img.youtube.com/vi/Q71dnkTtXqU/1.jpg)](https://youtu.be/Q71dnkTtXqU)
+You can access it from your desktop, tablet, or mobile through a responsive website ! 🎉 
 
