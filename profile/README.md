@@ -16,6 +16,7 @@ that provides the best price for Resell items.
 * 박성현 : asdpark2@gmail.com
 * 홍현기 : hk7286@naver.com
 * 추채원 (Designer)
+👍http://www.2022smvd.com/html/work_detail.php?w_no=42&person=42&category=UI/UX
 
 ## :wrench: Using programming skills
 * React
