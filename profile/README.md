@@ -1,4 +1,7 @@
 # ResellViewer
+![리셀뷰어메인](https://github.com/9con9/.github/assets/75314267/435a9ba4-3bad-400d-89de-a1cf311398ca)
+![리셀뷰어2](https://github.com/9con9/.github/assets/75314267/76875b7c-7fcb-4f49-a577-72ef51c3473b)
+
 ### Hi there 👋
 ### :point_right: Resell : Term used to sell back a previous purchase
 ### :point_right: Viewer : Term for viewing device
@@ -20,7 +23,7 @@ that provides the best price for Resell items.
 
 ## :wrench: Using programming skills
 * React
-* React Native
+* React Native (Expo)
 * Python
 * JavaScript
 * MySQL
